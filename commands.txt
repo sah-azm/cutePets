@@ -1,0 +1,2 @@
+docker build --no-cache -t exam:1.2 .
+docker run -p 80:5000 exam:1.2
